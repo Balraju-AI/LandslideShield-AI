@@ -1,0 +1,69 @@
+state,district,city,latitude,longitude
+Telangana,Hyderabad,Hyderabad,17.3850,78.4867
+Telangana,Warangal,Warangal,17.9784,79.5941
+Telangana,Karimnagar,Karimnagar,18.4386,79.1288
+Telangana,Nizamabad,Nizamabad,18.6725,78.0941
+Telangana,Khammam,Khammam,17.2473,80.1514
+Telangana,Adilabad,Adilabad,19.6641,78.5320
+Telangana,Nalgonda,Nalgonda,17.0500,79.2700
+Telangana,Medak,Medak,18.0500,78.2600
+Telangana,Siddipet,Siddipet,18.1000,78.8500
+Telangana,Vikarabad,Vikarabad,17.3400,77.9000
+Telangana,Mahabubnagar,Mahabubnagar,16.7400,77.9900
+Telangana,Mancherial,Mancherial,18.8700,79.4400
+Telangana,Nirmal,Nirmal,19.1000,78.3400
+Telangana,Suryapet,Suryapet,17.1400,79.6200
+Telangana,Sangareddy,Sangareddy,17.6200,78.0800
+Telangana,Kamareddy,Kamareddy,18.3200,78.3400
+Telangana,Jagtial,Jagtial,18.7947,78.9166
+Telangana,Jangaon,Jangaon,17.7227,79.1518
+Telangana,Medchal-Malkajgiri,Medchal,17.6300,78.4800
+Telangana,Rangareddy,Rangareddy,17.3200,78.4000
+Andhra Pradesh,Visakhapatnam,Visakhapatnam,17.6868,83.2185
+Andhra Pradesh,Vijayawada,Vijayawada,16.5062,80.6480
+Andhra Pradesh,Guntur,Guntur,16.3067,80.4365
+Andhra Pradesh,Tirupati,Tirupati,13.6288,79.4192
+Andhra Pradesh,Kurnool,Kurnool,15.8281,78.0373
+Andhra Pradesh,Nellore,Nellore,14.4426,79.9865
+Andhra Pradesh,Kadapa,Kadapa,14.4674,78.8241
+Andhra Pradesh,Anantapur,Anantapur,14.6819,77.6006
+Andhra Pradesh,Chittoor,Chittoor,13.2172,79.1003
+Andhra Pradesh,Rajahmundry,Rajahmundry,17.0005,81.8040
+Karnataka,Bengaluru Urban,Bengaluru,12.9716,77.5946
+Karnataka,Mysuru,Mysuru,12.2958,76.6394
+Karnataka,Mangaluru,Mangaluru,12.9141,74.8560
+Karnataka,Belagavi,Belagavi,15.8497,74.4977
+Karnataka,Hubballi-Dharwad,Hubballi,15.3647,75.1240
+Karnataka,Shivamogga,Shivamogga,13.9299,75.5681
+Karnataka,Kodagu,Madikeri,12.4244,75.7382
+Kerala,Thiruvananthapuram,Thiruvananthapuram,8.5241,76.9366
+Kerala,Kochi,Kochi,9.9312,76.2673
+Kerala,Kozhikode,Kozhikode,11.2588,75.7804
+Kerala,Wayanad,Kalpetta,11.6085,76.0834
+Kerala,Idukki,Thodupuzha,9.8967,76.6000
+Kerala,Kottayam,Kottayam,9.5916,76.5222
+Maharashtra,Mumbai,Mumbai,19.0760,72.8777
+Maharashtra,Pune,Pune,18.5204,73.8567
+Maharashtra,Nashik,Nashik,19.9975,73.7898
+Maharashtra,Satara,Satara,17.6805,74.0183
+Maharashtra,Kolhapur,Kolhapur,16.7050,74.2433
+Maharashtra,Ratnagiri,Ratnagiri,16.9902,73.3120
+Sikkim,East Sikkim,Gangtok,27.3389,88.6065
+Sikkim,West Sikkim,Gyalshing,27.2890,88.2640
+Sikkim,North Sikkim,Mangan,27.5090,88.5360
+Sikkim,South Sikkim,Namchi,27.1667,88.3500
+Assam,Kamrup Metro,Guwahati,26.1445,91.7362
+Assam,Dibrugarh,Dibrugarh,27.4728,94.9120
+Assam,Tinsukia,Tinsukia,27.4891,95.3597
+Assam,Silchar,Silchar,24.8333,92.7789
+Meghalaya,East Khasi Hills,Shillong,25.5788,91.8933
+Meghalaya,West Garo Hills,Tura,25.5140,90.2024
+Tripura,West Tripura,Agartala,23.8315,91.2868
+Tripura,South Tripura,Belonia,23.2510,91.4540
+Mizoram,Aizawl,Aizawl,23.7271,92.7176
+Mizoram,Lunglei,Lunglei,22.8897,92.7470
+Nagaland,Dimapur,Dimapur,25.6747,93.1160
+Nagaland,Kohima,Kohima,25.6751,94.1086
+Arunachal Pradesh,Itanagar,Itanagar,27.0844,93.6053
+Arunachal Pradesh,Tawang,Tawang,27.5861,91.8594
+Arunachal Pradesh,West Kameng,Bomdila,27.2647,92.4247

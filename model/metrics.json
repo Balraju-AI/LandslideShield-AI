@@ -1,0 +1,33 @@
+{
+    "model": "RandomForestClassifier",
+    "target": "landslide_trigger",
+    "features": [
+        "latitude",
+        "longitude",
+        "year",
+        "month",
+        "day",
+        "day_of_year",
+        "month_sin",
+        "month_cos",
+        "season",
+        "state"
+    ],
+    "classes": [
+        "construction",
+        "continuous_rain",
+        "downpour",
+        "mining",
+        "monsoon",
+        "rain",
+        "snowfall_snowmelt",
+        "tropical_cyclone",
+        "unknown"
+    ],
+    "accuracy": 0.6126482213438735,
+    "balanced_accuracy": 0.44337448559670783,
+    "macro_f1": 0.40692705692705694,
+    "weighted_f1": 0.6180247057717414,
+    "training_samples": 1010,
+    "testing_samples": 253
+}
